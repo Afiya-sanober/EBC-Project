@@ -1,0 +1,713 @@
+
+User 2:22 PM
+PROJECT: ELITE BUSINESS CONSULTANCY (EBC) — PROFESSIONAL BUSINESS WEBSITE
+Act as a senior full-stack developer, UI/UX designer, branding strategist and SEO specialist.
+Build a complete, modern, responsive, professional, multi-page corporate website for Elite Business Consultancy (EBC).
+The website must look like a premium, established business consultancy with a strong digital presence. It must communicate professionalism, trust, business growth, innovation and digital transformation.
+Do not create a generic template. Create a distinctive and polished website with excellent visual hierarchy, professional typography, thoughtful spacing and smooth interactions.
+COMPANY INFORMATION
+Company Name: Elite Business Consultancy
+Short Name: EBC
+Tagline:
+"Empowering Businesses • Driving Growth • Creating Digital Impact"
+Business Contact:
+M. Maqsood Husain
+Senior Business Consultant
+Location:
+Ramaiah Bowli, Mahbubnagar, Telangana, India.
+Phone: +91 91003 89060
+WhatsApp: +91 91003 89060
+Email: Not currently provided. Do not invent an email address.
+Target Markets:
+India
+Dubai, UAE
+Saudi Arabia
+Target Customers:
+Startups
+Small businesses
+Medium-sized enterprises
+Manufacturing companies
+Trading businesses
+Retail businesses
+Service-based businesses
+Company Positioning:
+EBC is a business consultancy combining business growth strategies, digital marketing, website solutions, AI-powered business solutions and business analytics to help businesses improve their operations and digital presence.
+BRAND IDENTITY AND DESIGN SYSTEM
+Create a modern minimal corporate design.
+Primary design:
+White background.
+Professional blue as the primary brand colour.
+Dark navy blue for headings.
+Light blue backgrounds for selected sections.
+Subtle grey for secondary text.
+Small blue accent elements.
+Suggested colour palette:
+Primary Blue: #2563EB
+Dark Navy: #142B4A
+Light Blue: #EFF6FF
+White: #FFFFFF
+Background Grey: #F8FAFC
+Text Grey: #475569
+Typography:
+Use modern professional fonts such as Inter, Manrope or Plus Jakarta Sans.
+Design principles:
+Clean and uncluttered layouts.
+Premium corporate appearance.
+Consistent spacing and alignment.
+Professional icons.
+Subtle shadows and rounded cards.
+Smooth transitions and hover effects.
+Beautiful responsive layouts.
+Avoid excessive gradients.
+Avoid unnecessary animations.
+Avoid overcrowded sections.
+Logo:
+Create a clean text-based EBC wordmark using the letters EBC and the full company name. Do not assume an existing company logo is available.
+The overall design should feel like a professional international business consulting and digital transformation firm.
+WEBSITE STRUCTURE
+Build the following individual pages with proper navigation and routing.
+Home
+About Us
+Services
+Our Portfolio
+Industries We Serve
+Contact Us
+Create a consistent header and footer across all pages.
+HEADER:
+EBC logo.
+Home.
+About Us.
+Services dropdown.
+Portfolio.
+Industries.
+Contact Us.
+Prominent "Let's Talk" button.
+Make the navigation fully functional on desktop and mobile.
+HOMEPAGE
+Create an impressive homepage.
+HERO SECTION:
+Headline:
+"Empowering Businesses for a Smarter Digital Future."
+Supporting text:
+"From business consulting and digital marketing to AI-powered solutions and business analytics, EBC helps businesses build stronger foundations, improve efficiency and grow with confidence."
+Primary CTA:
+"Explore Our Services"
+Secondary CTA:
+"Talk to Our Consultant"
+Use a premium business-themed visual showing modern business strategy, technology, analytics and digital transformation.
+Do not use random unrelated stock images.
+TRUST AND INTRODUCTION SECTION:
+Heading:
+"Your Partner in Business Growth and Digital Transformation."
+Description:
+"Every business has unique challenges and opportunities. At Elite Business Consultancy, we focus on understanding business requirements and providing practical solutions that support growth, improve digital visibility and enable smarter decision-making."
+SERVICES OVERVIEW:
+Display five professional service cards:
+Business Consultancy
+Description: Practical business guidance, growth planning, strategic support and operational improvement.
+Digital Marketing
+Description: Digital marketing strategies, social media management, promotional creatives, brand visibility and online engagement.
+Website Design and Development
+Description: Professional business websites that establish credibility, communicate services and generate enquiries.
+AI-Powered Business Solutions
+Description: AI-assisted business solutions, workflow improvement, automation opportunities and intelligent business support.
+Business Analytics and Reporting
+Description: Data-driven insights, business dashboards, performance reporting and analytical support to help businesses make informed decisions.
+Each card must have:
+Professional icon.
+Service title.
+Short description.
+Learn More link.
+WHY CHOOSE EBC?
+Heading:
+"Why Businesses Choose EBC"
+Use these points:
+Business-focused approach.
+Practical and customized solutions.
+Digital-first thinking.
+Technology-driven support.
+Focus on measurable business improvements.
+Commitment to understanding client requirements.
+OUR APPROACH:
+Show a four-step process:
+01 — Understand
+Understand the client's business, goals and challenges.
+02 — Strategize
+Identify suitable solutions and create a practical plan.
+03 — Implement
+Deliver the agreed business and digital solutions.
+04 — Improve
+Review progress and identify opportunities for improvement.
+INDUSTRIES SECTION:
+Show:
+Retail and Supermarkets.
+Manufacturing.
+Trading and Distribution.
+Food and Hospitality.
+Education.
+Professional Services.
+CTA SECTION:
+Headline:
+"Ready to Take Your Business Forward?"
+Description:
+"Let's discuss your business goals and explore the right solutions for your next stage of growth."
+Button:
+"Contact EBC Today"
+ABOUT US PAGE
+Create a premium company introduction page.
+Headline:
+"Building Better Businesses Through Strategy, Technology and Innovation."
+Include:
+Company Overview:
+Elite Business Consultancy supports businesses through business consulting, digital marketing, website solutions, AI-powered business solutions and business analytics.
+Our Mission:
+To help businesses identify opportunities, overcome challenges and grow through practical strategies and innovative digital solutions.
+Our Vision:
+To become a trusted business consultancy partner for organizations seeking sustainable growth and digital transformation.
+Our Values:
+Integrity.
+Professionalism.
+Innovation.
+Client-focused solutions.
+Continuous improvement.
+LEADERSHIP SECTION:
+Name: M. Maqsood Husain
+Designation: Senior Business Consultant
+Create a professional leadership profile section with space for an actual photograph.
+Do not invent educational qualifications, professional experience, awards or certifications.
+SERVICES PAGE
+Create an individual detailed section for each of the five services.
+For each service include:
+Service overview.
+Business challenges addressed.
+Solutions offered.
+Benefits to clients.
+Relevant visual.
+Contact Us CTA.
+Business Consultancy:
+Include business planning, growth strategies, business process improvement and strategic guidance.
+Digital Marketing:
+Include social media strategy, content planning, promotional designs, online brand visibility and digital campaigns.
+Website Design and Development:
+Include business websites, responsive layouts, service pages, contact forms and website content.
+AI-Powered Business Solutions:
+Include AI-assisted business workflows, business productivity, intelligent reporting and automation opportunities.
+Business Analytics and Reporting:
+Include Excel-based reporting, data visualization, dashboards, KPI tracking and business performance insights.
+Do not promise specific financial results or guaranteed growth.
+PORTFOLIO PAGE
+Create a visually impressive portfolio with image-based project cards.
+Portfolio categories:
+Restaurant and Food Business
+Retail and Supermarket
+Mobile and Electronics
+Salon and Beauty
+Education
+Travel Services
+Social Media Marketing
+Website Design
+Business Presentations
+AI and Business Analytics
+Each portfolio card should contain:
+Image preview.
+Project category.
+Short project description.
+View Project option.
+IMPORTANT:
+Use clearly labelled sample/demo projects until real client projects are provided.
+Never present fictional clients, testimonials or results as genuine EBC client work.
+Make portfolio images easy to replace later.
+Include a CTA:
+"Have a Project in Mind? Let's Discuss."
+INDUSTRIES WE SERVE PAGE
+Create a dedicated page explaining how EBC supports different industries.
+Include:
+Retail and Supermarkets.
+Manufacturing and Industrial Businesses.
+Trading and Distribution.
+Restaurants and Food Businesses.
+Education and Training.
+Professional and Service Businesses.
+For each industry show:
+Common business challenges.
+Relevant EBC services.
+Potential business improvements.
+Use industry-specific illustrations or visuals.
+CONTACT US PAGE
+Create an attractive contact page.
+Headline:
+"Let's Start a Conversation."
+Supporting text:
+"Tell us about your business and requirements. Our team will get in touch to discuss suitable solutions."
+Display:
+Company: Elite Business Consultancy
+Contact Person: M. Maqsood Husain
+Phone: +91 91003 89060
+WhatsApp: +91 91003 89060
+Location: Ramaiah Bowli, Mahbubnagar, Telangana, India.
+Create a contact enquiry form with:
+Full Name.
+Company Name.
+Phone Number.
+Email Address.
+Country.
+Service Interested In.
+Message.
+Service dropdown:
+Business Consultancy.
+Digital Marketing.
+Website Design and Development.
+AI-Powered Business Solutions.
+Business Analytics and Reporting.
+Other.
+Country dropdown:
+India.
+United Arab Emirates.
+Saudi Arabia.
+Other.
+FORM FUNCTIONALITY:
+Make all fields properly validated.
+Since an email address and backend submission service have not been provided, do not pretend that enquiries have been sent successfully.
+Implement a working WhatsApp enquiry submission option.
+On submission:
+Validate required fields.
+Generate a properly formatted enquiry message containing the entered information.
+Open WhatsApp using the official click-to-chat URL:
+https://wa.me/919100389060
+Pre-fill the message so the visitor can send it.
+Also include a visible direct WhatsApp button.
+FOOTER
+Create a professional footer across all pages.
+Include:
+EBC text logo.
+Short company introduction.
+Quick navigation links.
+Our services links.
+Phone number.
+WhatsApp contact.
+Location.
+Social media links as editable placeholders.
+Copyright:
+© 2026 Elite Business Consultancy. All Rights Reserved.
+Do not invent social media URLs or an email address.
+FUNCTIONAL REQUIREMENTS
+The website must be a real working multi-page website, not just a visual mockup.
+Technical requirements:
+Use React and TypeScript.
+Use a clean component-based architecture.
+Use a modern responsive CSS framework such as Tailwind CSS if supported.
+Implement proper routing.
+Make every navigation link functional.
+Create reusable components.
+Use responsive image handling.
+Add loading and error states where appropriate.
+Implement the contact form validation.
+Implement WhatsApp click-to-chat.
+Ensure mobile navigation works.
+Ensure all buttons have meaningful actions.
+Optimize performance.
+Use semantic HTML.
+Add accessible labels and keyboard navigation.
+Do not leave dead buttons, broken links or non-functional menu items.
+Do not add unnecessary authentication, payment systems or database functionality.
+SEO REQUIREMENTS
+Optimize the website for relevant search terms such as:
+Elite Business Consultancy.
+Business Consultancy in Telangana.
+Business Consulting Services in India.
+Digital Marketing Services.
+Website Design for Small Businesses.
+AI Business Solutions.
+Business Analytics and Dashboard Services.
+Business Consultancy for SMEs.
+Add:
+Individual page titles.
+Meta descriptions.
+Appropriate heading hierarchy.
+Image alt text.
+Open Graph metadata.
+Sitemap and robots.txt where supported.
+Local business structured data using only verified company details.
+Do not claim physical offices in Dubai or Saudi Arabia.
+IMPORTANT CONTENT AND DESIGN RULES
+Write professional, persuasive and natural business content.
+Avoid generic AI-sounding descriptions.
+Do not invent company achievements, client counts, statistics, awards or testimonials.
+Do not fabricate customer logos.
+Do not use fake reviews.
+Do not invent email or social media contact details.
+Keep the design consistent throughout the website.
+Do not overload the homepage.
+Ensure the website works on mobile, tablet and desktop.
+Use realistic business-related visuals.
+Make every section visually polished.
+Keep all company information editable.
+FINAL DELIVERABLE
+Build the complete website, including all six pages.
+First, establish the overall design system and reusable components. Then implement the pages and connect their navigation.
+After development:
+Check every page.
+Test desktop and mobile layouts.
+Test all navigation links.
+Test WhatsApp enquiry functionality.
+Check form validation.
+Check for console errors.
+Fix broken images and layout issues.
+Verify that no placeholder content is accidentally presented as real company information.
+The final result should look like a professionally designed corporate consultancy website suitable for presenting to business clients in India, Dubai and Saudi Arabia.
+Build the actual working website, not just a design description or a landing-page mockup.PROJECT: ELITE BUSINESS CONSULTANCY (EBC) — PROFESSIONAL BUSINESS WEBSITE
+Act as a senior full-stack developer, UI/UX designer, branding strategist and SEO specialist.
+Build a complete, modern, responsive, professional, multi-page corporate website for Elite Business Consultancy (EBC).
+The website must look like a premium, established business consultancy with a strong digital presence. It must communicate professionalism, trust, business growth, innovation and digital transformation.
+Do not create a generic template. Create a distinctive and polished website with excellent visual hierarchy, professional typography, thoughtful spacing and smooth interactions.
+COMPANY INFORMATION
+Company Name: Elite Business Consultancy
+Short Name: EBC
+Tagline:
+"Empowering Businesses • Driving Growth • Creating Digital Impact"
+Business Contact:
+M. Maqsood Husain
+Senior Business Consultant
+Location:
+Ramaiah Bowli, Mahbubnagar, Telangana, India.
+Phone: +91 91003 89060
+WhatsApp: +91 91003 89060
+Email: Not currently provided. Do not invent an email address.
+Target Markets:
+India
+Dubai, UAE
+Saudi Arabia
+Target Customers:
+Startups
+Small businesses
+Medium-sized enterprises
+Manufacturing companies
+Trading businesses
+Retail businesses
+Service-based businesses
+Company Positioning:
+EBC is a business consultancy combining business growth strategies, digital marketing, website solutions, AI-powered business solutions and business analytics to help businesses improve their operations and digital presence.
+BRAND IDENTITY AND DESIGN SYSTEM
+Create a modern minimal corporate design.
+Primary design:
+White background.
+Professional blue as the primary brand colour.
+Dark navy blue for headings.
+Light blue backgrounds for selected sections.
+Subtle grey for secondary text.
+Small blue accent elements.
+Suggested colour palette:
+Primary Blue: #2563EB
+Dark Navy: #142B4A
+Light Blue: #EFF6FF
+White: #FFFFFF
+Background Grey: #F8FAFC
+Text Grey: #475569
+Typography:
+Use modern professional fonts such as Inter, Manrope or Plus Jakarta Sans.
+Design principles:
+Clean and uncluttered layouts.
+Premium corporate appearance.
+Consistent spacing and alignment.
+Professional icons.
+Subtle shadows and rounded cards.
+Smooth transitions and hover effects.
+Beautiful responsive layouts.
+Avoid excessive gradients.
+Avoid unnecessary animations.
+Avoid overcrowded sections.
+Logo:
+Create a clean text-based EBC wordmark using the letters EBC and the full company name. Do not assume an existing company logo is available.
+The overall design should feel like a professional international business consulting and digital transformation firm.
+WEBSITE STRUCTURE
+Build the following individual pages with proper navigation and routing.
+Home
+About Us
+Services
+Our Portfolio
+Industries We Serve
+Contact Us
+Create a consistent header and footer across all pages.
+HEADER:
+EBC logo.
+Home.
+About Us.
+Services dropdown.
+Portfolio.
+Industries.
+Contact Us.
+Prominent "Let's Talk" button.
+Make the navigation fully functional on desktop and mobile.
+HOMEPAGE
+Create an impressive homepage.
+HERO SECTION:
+Headline:
+"Empowering Businesses for a Smarter Digital Future."
+Supporting text:
+"From business consulting and digital marketing to AI-powered solutions and business analytics, EBC helps businesses build stronger foundations, improve efficiency and grow with confidence."
+Primary CTA:
+"Explore Our Services"
+Secondary CTA:
+"Talk to Our Consultant"
+Use a premium business-themed visual showing modern business strategy, technology, analytics and digital transformation.
+Do not use random unrelated stock images.
+TRUST AND INTRODUCTION SECTION:
+Heading:
+"Your Partner in Business Growth and Digital Transformation."
+Description:
+"Every business has unique challenges and opportunities. At Elite Business Consultancy, we focus on understanding business requirements and providing practical solutions that support growth, improve digital visibility and enable smarter decision-making."
+SERVICES OVERVIEW:
+Display five professional service cards:
+Business Consultancy
+Description: Practical business guidance, growth planning, strategic support and operational improvement.
+Digital Marketing
+Description: Digital marketing strategies, social media management, promotional creatives, brand visibility and online engagement.
+Website Design and Development
+Description: Professional business websites that establish credibility, communicate services and generate enquiries.
+AI-Powered Business Solutions
+Description: AI-assisted business solutions, workflow improvement, automation opportunities and intelligent business support.
+Business Analytics and Reporting
+Description: Data-driven insights, business dashboards, performance reporting and analytical support to help businesses make informed decisions.
+Each card must have:
+Professional icon.
+Service title.
+Short description.
+Learn More link.
+WHY CHOOSE EBC?
+Heading:
+"Why Businesses Choose EBC"
+Use these points:
+Business-focused approach.
+Practical and customized solutions.
+Digital-first thinking.
+Technology-driven support.
+Focus on measurable business improvements.
+Commitment to understanding client requirements.
+OUR APPROACH:
+Show a four-step process:
+01 — Understand
+Understand the client's business, goals and challenges.
+02 — Strategize
+Identify suitable solutions and create a practical plan.
+03 — Implement
+Deliver the agreed business and digital solutions.
+04 — Improve
+Review progress and identify opportunities for improvement.
+INDUSTRIES SECTION:
+Show:
+Retail and Supermarkets.
+Manufacturing.
+Trading and Distribution.
+Food and Hospitality.
+Education.
+Professional Services.
+CTA SECTION:
+Headline:
+"Ready to Take Your Business Forward?"
+Description:
+"Let's discuss your business goals and explore the right solutions for your next stage of growth."
+Button:
+"Contact EBC Today"
+ABOUT US PAGE
+Create a premium company introduction page.
+Headline:
+"Building Better Businesses Through Strategy, Technology and Innovation."
+Include:
+Company Overview:
+Elite Business Consultancy supports businesses through business consulting, digital marketing, website solutions, AI-powered business solutions and business analytics.
+Our Mission:
+To help businesses identify opportunities, overcome challenges and grow through practical strategies and innovative digital solutions.
+Our Vision:
+To become a trusted business consultancy partner for organizations seeking sustainable growth and digital transformation.
+Our Values:
+Integrity.
+Professionalism.
+Innovation.
+Client-focused solutions.
+Continuous improvement.
+LEADERSHIP SECTION:
+Name: M. Maqsood Husain
+Designation: Senior Business Consultant
+Create a professional leadership profile section with space for an actual photograph.
+Do not invent educational qualifications, professional experience, awards or certifications.
+SERVICES PAGE
+Create an individual detailed section for each of the five services.
+For each service include:
+Service overview.
+Business challenges addressed.
+Solutions offered.
+Benefits to clients.
+Relevant visual.
+Contact Us CTA.
+Business Consultancy:
+Include business planning, growth strategies, business process improvement and strategic guidance.
+Digital Marketing:
+Include social media strategy, content planning, promotional designs, online brand visibility and digital campaigns.
+Website Design and Development:
+Include business websites, responsive layouts, service pages, contact forms and website content.
+AI-Powered Business Solutions:
+Include AI-assisted business workflows, business productivity, intelligent reporting and automation opportunities.
+Business Analytics and Reporting:
+Include Excel-based reporting, data visualization, dashboards, KPI tracking and business performance insights.
+Do not promise specific financial results or guaranteed growth.
+PORTFOLIO PAGE
+Create a visually impressive portfolio with image-based project cards.
+Portfolio categories:
+Restaurant and Food Business
+Retail and Supermarket
+Mobile and Electronics
+Salon and Beauty
+Education
+Travel Services
+Social Media Marketing
+Website Design
+Business Presentations
+AI and Business Analytics
+Each portfolio card should contain:
+Image preview.
+Project category.
+Short project description.
+View Project option.
+IMPORTANT:
+Use clearly labelled sample/demo projects until real client projects are provided.
+Never present fictional clients, testimonials or results as genuine EBC client work.
+Make portfolio images easy to replace later.
+Include a CTA:
+"Have a Project in Mind? Let's Discuss."
+INDUSTRIES WE SERVE PAGE
+Create a dedicated page explaining how EBC supports different industries.
+Include:
+Retail and Supermarkets.
+Manufacturing and Industrial Businesses.
+Trading and Distribution.
+Restaurants and Food Businesses.
+Education and Training.
+Professional and Service Businesses.
+For each industry show:
+Common business challenges.
+Relevant EBC services.
+Potential business improvements.
+Use industry-specific illustrations or visuals.
+CONTACT US PAGE
+Create an attractive contact page.
+Headline:
+"Let's Start a Conversation."
+Supporting text:
+"Tell us about your business and requirements. Our team will get in touch to discuss suitable solutions."
+Display:
+Company: Elite Business Consultancy
+Contact Person: M. Maqsood Husain
+Phone: +91 91003 89060
+WhatsApp: +91 91003 89060
+Location: Ramaiah Bowli, Mahbubnagar, Telangana, India.
+Create a contact enquiry form with:
+Full Name.
+Company Name.
+Phone Number.
+Email Address.
+Country.
+Service Interested In.
+Message.
+Service dropdown:
+Business Consultancy.
+Digital Marketing.
+Website Design and Development.
+AI-Powered Business Solutions.
+Business Analytics and Reporting.
+Other.
+Country dropdown:
+India.
+United Arab Emirates.
+Saudi Arabia.
+Other.
+FORM FUNCTIONALITY:
+Make all fields properly validated.
+Since an email address and backend submission service have not been provided, do not pretend that enquiries have been sent successfully.
+Implement a working WhatsApp enquiry submission option.
+On submission:
+Validate required fields.
+Generate a properly formatted enquiry message containing the entered information.
+Open WhatsApp using the official click-to-chat URL:
+https://wa.me/919100389060
+Pre-fill the message so the visitor can send it.
+Also include a visible direct WhatsApp button.
+FOOTER
+Create a professional footer across all pages.
+Include:
+EBC text logo.
+Short company introduction.
+Quick navigation links.
+Our services links.
+Phone number.
+WhatsApp contact.
+Location.
+Social media links as editable placeholders.
+Copyright:
+© 2026 Elite Business Consultancy. All Rights Reserved.
+Do not invent social media URLs or an email address.
+FUNCTIONAL REQUIREMENTS
+The website must be a real working multi-page website, not just a visual mockup.
+Technical requirements:
+Use React and TypeScript.
+Use a clean component-based architecture.
+Use a modern responsive CSS framework such as Tailwind CSS if supported.
+Implement proper routing.
+Make every navigation link functional.
+Create reusable components.
+Use responsive image handling.
+Add loading and error states where appropriate.
+Implement the contact form validation.
+Implement WhatsApp click-to-chat.
+Ensure mobile navigation works.
+Ensure all buttons have meaningful actions.
+Optimize performance.
+Use semantic HTML.
+Add accessible labels and keyboard navigation.
+Do not leave dead buttons, broken links or non-functional menu items.
+Do not add unnecessary authentication, payment systems or database functionality.
+SEO REQUIREMENTS
+Optimize the website for relevant search terms such as:
+Elite Business Consultancy.
+Business Consultancy in Telangana.
+Business Consulting Services in India.
+Digital Marketing Services.
+Website Design for Small Businesses.
+AI Business Solutions.
+Business Analytics and Dashboard Services.
+Business Consultancy for SMEs.
+Add:
+Individual page titles.
+Meta descriptions.
+Appropriate heading hierarchy.
+Image alt text.
+Open Graph metadata.
+Sitemap and robots.txt where supported.
+Local business structured data using only verified company details.
+Do not claim physical offices in Dubai or Saudi Arabia.
+IMPORTANT CONTENT AND DESIGN RULES
+Write professional, persuasive and natural business content.
+Avoid generic AI-sounding descriptions.
+Do not invent company achievements, client counts, statistics, awards or testimonials.
+Do not fabricate customer logos.
+Do not use fake reviews.
+Do not invent email or social media contact details.
+Keep the design consistent throughout the website.
+Do not overload the homepage.
+Ensure the website works on mobile, tablet and desktop.
+Use realistic business-related visuals.
+Make every section visually polished.
+Keep all company information editable.
+FINAL DELIVERABLE
+Build the complete website, including all six pages.
+First, establish the overall design system and reusable components. Then implement the pages and connect their navigation.
+After development:
+Check every page.
+Test desktop and mobile layouts.
+Test all navigation links.
+Test WhatsApp enquiry functionality.
+Check form validation.
+Check for console errors.
+Fix broken images and layout issues.
+Verify that no placeholder content is accidentally presented as real company information.
+The final result should look like a professionally designed corporate consultancy website suitable for presenting to business clients in India, Dubai and Saudi Arabia.
+Build the actual working website, not just a design description or a landing-page mockup.
